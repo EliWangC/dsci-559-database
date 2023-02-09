@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T01:00:35.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="be3Yog9GHejwHn4xx5zd" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T01:01:15.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4pubNBbpHBO7b29ohifh" version="20.8.13" type="github">
   <diagram name="Page-1" id="y2NNBTkOCj3QblZ_VMH4">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cZ7txaqlHbyW_4Xa78-X-1" value="ACCOUNT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="110" y="180" width="100" height="50" as="geometry" />
+          <mxGeometry x="110" y="230" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cZ7txaqlHbyW_4Xa78-X-2" value="ACCOUNT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="260" y="140" width="100" height="50" as="geometry" />
+        <mxCell id="cZ7txaqlHbyW_4Xa78-X-2" value="CHECKING_ACCOUNT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cZ7txaqlHbyW_4Xa78-X-4" value="Homework 2B" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="20" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cZ7txaqlHbyW_4Xa78-X-5" value="Q2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ7txaqlHbyW_4Xa78-X-6" value="SAVING_ACCOUNT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
