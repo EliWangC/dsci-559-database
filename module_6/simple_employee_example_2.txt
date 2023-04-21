@@ -1,0 +1,16 @@
+{
+  "EMPLOYEE":  [
+    {
+  	"NAME": "Paul",
+ 	"AGE": 32,
+	"ADDRESS": "California",
+	"SALARY":  20000.00
+    },
+    {
+  	"NAME": "Paul",
+ 	"AGE": 32,
+	"ADDRESS": "California",
+	"SALARY":  20000.00
+    }
+  ]
+}

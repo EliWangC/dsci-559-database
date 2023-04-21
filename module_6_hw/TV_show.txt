@@ -1,0 +1,51 @@
+[
+{
+"show_id": 1,
+"title": "Restaurants on the Edge",
+"release_year": 2020,
+"genres": "Reality TV",
+"rating": 6.8
+},
+{
+"show_id": 2,
+"title": "BNA",
+"release_year": 2020,
+"genres": "Anime Series|International TV Shows",
+"rating": 7.2
+},
+{
+"show_id": 3,
+"title": "Mossad 101",
+"release_year": 2017,
+"genres": "International TV Shows|TV Action & Adventure|TV Dramas",
+"rating": 6.9
+},
+{
+"show_id": 4,
+"title": "Dare Me",
+"release_year": 2019,
+"genres": "Crime TV Shows|TV Dramas|TV Thrillers",
+"rating": null
+},
+{
+"show_id": 5,
+"title": "Lucifer",
+"release_year": 2020,
+"genres": "Crime TV Shows|TV Comedies|TV Dramas",
+"rating": 8.1
+},
+{
+"show_id": 6,
+"title": "Bondi Rescue",
+"release_year": 2016,
+"genres": "Reality TV",
+"rating": 7.6
+},
+{
+"show_id": 7,
+"title": "72 Dangerous Places to Live",
+"release_year": 2016,
+"genres": "Docuseries|International TV Shows|Science & Nature TV",
+"rating": 6.3
+}
+]
